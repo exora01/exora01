@@ -1,0 +1,11 @@
+# SHIPID
+
+SHIP_CABIN_ID      ROOM_NUMBER      ROOM_STYLE     ROOM_TYPE      WINDOW    GUESTS    SQ_FT
+------------       -----------    -----------    ---------------  --------  -------- --------
+1                    102            Suite          Standard        Ocean       4        533
+2                    103            Stateroom      Standard        Ocean       2        160
+3                    104            Suite          Standard        None        4        533
+4                    105            Stateroom      Standard        Ocean       3        205
+5                    106            Suite          Standard        None        6        586
+6                    107            Suite          Royal           Ocean       5       1524
+7                    108            Stateroom      Large           None        2        211
