@@ -1,0 +1,4 @@
+## Correlated Subquery
+
+create a single query that lists all the cabins in the ship whose size—as measured by the SQ_FT column—is larger than the average
+cabin for its ROOM_STYLE (refer SQL1)
