@@ -1,0 +1,20 @@
+##  PORTS
+
+PORT_ID     PORT_NAME
+---------------------- --------------------
+1           Baltimore
+2           Charleston
+3           Tampa
+4           Miami
+
+
+##  SHIPS
+
+SHIP_ID      SHIP_NAME      HOME_PORT_ID
+---------------------- -------------------- -------------------
+1           Codd Crystal       1
+2           Codd Elegance      3
+3           Codd Champion
+4           Codd Victorious    3
+5           Codd Grandeur      2
+6           Codd Prince        2
